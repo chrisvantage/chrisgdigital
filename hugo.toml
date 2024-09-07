@@ -1,0 +1,4 @@
+baseURL = 'https://chrisgdigital.com/'
+languageCode = 'en-us'
+title = 'Digital Marketing by Christian Gomez'
+theme = 'ananke'
