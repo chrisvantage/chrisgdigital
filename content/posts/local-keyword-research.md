@@ -4,92 +4,152 @@ date = 2024-09-07T12:43:45-04:00
 draft = false
 +++
 
-As a business owner, you want to attract local customers to your website and store. One of the most effective ways to do this is by conducting local keyword research. In this article, we'll show you how to identify relevant keywords and phrases that will help you rank higher in search engine results pages (SERPs) and drive more local traffic to your business.
+As a business owner, you want to attract local customers to your website. One of the most effective ways to do this is by conducting local keyword research. In this article, I'll show you how to find keywords that will help you rank higher in search engine results pages.  
 
-## Understanding Local Keyword Research
-------------------------------------
+**## Understanding Local Keyword Research**  
+------------------------------------  
 
-Local keyword research is the process of identifying keywords and phrases that people in your local area use to search for products or services like yours. By targeting these keywords, you can optimize your website and online presence to attract local customers.
+Local keyword research is the process of finding the words or phrases people use to find products or services near them. By targeting these keywords, you can optimize your online presence to attract local customers.  
 
-### Why is Local Keyword Research Important?
+**### Why is Local Keyword Research Important?**  
 
-* **Increased visibility**: By targeting local keywords, you can increase your visibility in search engine results pages (SERPs) and attract more local customers.
-* **Relevant traffic**: Local keyword research helps you attract relevant traffic to your website, which can lead to more conversions and sales.
-* **Competitive advantage**: By optimizing for local keywords, you can gain a competitive advantage over other businesses in your area.
+By targeting local keywords, you can increase your visibility in search result pages and attract local customers. Traffic from local customers is more likely to convert into new business. And who doesn't like new business?  
 
-## Tools for Local Keyword Research
------------------------------------
+**## Tools for Local Keyword Research**  
+-----------------------------------  
 
-There are many tools available to help you conduct local keyword research. Here are some of the most popular ones:
+There are lots of tools available to help you conduct local keyword research. Here are some of the most popular ones:  
 
-* **Google Keyword Planner**: A free tool that helps you find keywords and get an idea of their search volume.
-* **Ahrefs**: A paid tool that offers a comprehensive keyword research feature, including local keyword suggestions.
-* **SEMrush**: A paid tool that offers a keyword magic tool, which helps you find local keywords and phrases.
-* **Google Trends**: A free tool that helps you identify popular keywords and trends in your local area.
+* [****Google Trends**](trends.google.com)**: A free tool that helps you identify popular keywords and trends in your local area.
 
-## Techniques for Local Keyword Research
------------------------------------------
+* [****Google Keyword Planner**](https://ads.google.com/intl/en_us/home/tools/keyword-planner/)**: A free tool that helps you find keywords and get an idea of their search volume.  
+* ****Ahrefs****: A paid tool that offers a keyword research feature, including local keyword suggestions.  
+* ****SEMrush****: A paid tool that offers a "keyword magic" tool, which helps you find local keywords and phrases.  
 
-Here are some techniques to help you conduct local keyword research:
+**## Techniques for Local Keyword Research**  
+-----------------------------------------  
 
-### 1. Identify Your Target Location
+Here are some techniques to help you conduct local keyword research:  
 
-* **City or town**: Identify the city or town where your business is located.
-* **Region or state**: Identify the region or state where your business operates.
-* **Zip code**: Identify the zip code where your business is located.
+**### 1\. Identify Your Target Location**  
 
-### 2. Brainstorm Seed Keywords
+Identify the City, State and Zip code where your business operates. For mobile or service area businesses, create a list of areas you serve. I organize my service areas by municipality. Because when you search "near me" Google looks at your location for your municipality. Then, displays results based on which municipality you're searching from.
 
-* **Products or services**: Brainstorm keywords related to your products or services.
-* **Industry**: Brainstorm keywords related to your industry.
-* **Location**: Brainstorm keywords related to your location.
+**### 2\. Brainstorm Seed Keywords**
 
-### 3. Use Keyword Research Tools
+Brainstorm keywords related to your products or services, industry and location. These words will serve as your "seed keywords".    
 
-* **Google Keyword Planner**: Use Google Keyword Planner to find keywords and get an idea of their search volume.
-* **Ahrefs**: Use Ahrefs to get comprehensive keyword suggestions, including local keywords.
-* **SEMrush**: Use SEMrush to get keyword suggestions and analyze your competitors.
+A **Seed keyword** is the word or words that communicate *what* you or your business *does*. Seed keywords are important because:
 
-### 4. Analyze Your Competitors
+* They are a starting point for your content.
 
-* **Identify competitors**: Identify your competitors in your local area.
-* **Analyze their keywords**: Analyze the keywords your competitors are targeting.
-* **Identify gaps**: Identify gaps in their keyword strategy that you can exploit.
+* They are the building blocks that help you find more related keywords.
 
-### 5. Refine Your Keyword List
+ For example, if you're a pet groomer, your seed keyword might be "dog grooming." From there, you can think of other words like "puppy grooming," "pet groomer," or "dog salon."
 
-* **Relevance**: Refine your keyword list to ensure that the keywords are relevant to your business.
-* **Search volume**: Refine your keyword list to ensure that the keywords have a decent search volume.
-* **Competition**: Refine your keyword list to ensure that the keywords are not too competitive.
+**### 3\. Use Keyword Research Tools**  
 
-## Implementing Your Local Keyword Research
----------------------------------------------
+Use tools like Google Keyword Planner to find more keywords based on your seed keyword. And get an idea of their search volume. There are many tools available to help with keyword research. The key purpose of these tools is to help you see what the market is searching for, to find your services.
 
-Once you have identified your local keywords, it's time to implement them on your website and online presence. Here are some tips:
+Make sure to focus on **your local area**. By default, Google keyword planner presents data from the entire US. I narrow this down to the **local** area of the business I'm working on. This helps me get an idea of *what* the local population is looking for, and *how* they search for it.
 
-### 1. Optimize Your Website
+**### 4\. Analyze Your Competitors**
 
-* **Page titles**: Optimize your page titles with your target keywords.
-* **Meta descriptions**: Optimize your meta descriptions with your target keywords.
-* **Header tags**: Optimize your header tags with your target keywords.
-* **Content**: Optimize your content with your target keywords.
+Analyzing competitor keywords is a crucial part of keyword research for several reasons:  
 
-### 2. Use Location-Specific Pages
+* Competitors may be targeting valuable keywords you haven't considered. This analysis can reveal untapped keyword opportunities to expand your reach.
 
-* **Create location-specific pages**: Create pages that are specific to your location.
-* **Optimize with local keywords**: Optimize these pages with local keywords.
+* It provides insights into your competitors SEO and content strategies.
 
-### 3. Build Local Citations
+* You can discover topics and keywords your competitors are ranking for but you aren't. These are opportunities for new content.
 
-* **Get listed in local directories**: Get listed in local directories like Yelp, Google My Business, and Bing Places.
-* **Use consistent NAP**: Use consistent NAP (name, address, phone number) across all directories.
+By understanding what's working for competitors, you can refine and enhance your own approach. Let's dig into *how* you can conduct competitor keyword analysis.  
 
-### 4. Monitor and Refine
+1) Start by listing your main organic search competitors.
 
-* **Monitor your rankings**: Monitor your rankings for your target keywords.
-* **Refine your strategy**: Refine your strategy based on your rankings and traffic.
+2)  Use SEO tools like Semrush, Ahrefs, or Ubersuggest to analyze competitor websites. For a simple free option, you can use [SpyFu's free PPC research tool](https://www.spyfu.com/ppc/keywords). Enter your competitors website url to get a list of their most successful keywords along with how many ads they're running for that keyword. 
 
-## Conclusion
-----------
+3) Analyze search intent: Look at the types of content ranking for competitor keywords to understand user intent. Analyzing search intent is more art than science. 
 
-Local keyword research is a crucial step in attracting local customers to your business. By following the techniques and tools outlined in this article, you can identify relevant keywords and phrases that will help you rank higher in search engine results pages (SERPs) and drive more local traffic to your business. If you need help implementing these suggestions or ideas, consider reaching out to an SEO expert for assistance.
+4) Compare rankings: Use tools like Semrush's Keyword Gap tool to compare your rankings against your competitors.
+
+5) Examine high-performing content: Analyze the structure and content of competitors' top-ranking pages.
+
+**### 5\. Identify Gaps In Your Competitors Keyword Strategy**
+
+To find gaps in your competitors' keyword strategies that you can exploit:
+
+* **Look for "weak" and "missing" keywords**: Use tools to identify keywords where competitors rank lower than you or don't rank at all.
+
+* **Analyze search volume and difficulty**: Focus on keywords with good search volume but lower difficulty scores. If you're using Google keyword planner, you should already have a good idea of what these words are.
+
+* **Explore long-tail variations**: Look for long-tail versions of keywords that may be less competitive. Your Google keyword planner list should include some of these, but the volume may be low. You might think these words aren't worth the work, but traffic from these keywords adds up!
+
+* **Check for content quality**: If competitors rank for a keyword but their content is subpar, you can create better content to outrank them. Read through their articles, is there something they missed? This is an opportunity.
+
+* **Identify underserved intents**: Look for keywords where existing content doesn't address all aspects of user intent. Again, analyzing intents is more art than science. 
+
+* **Track trends**: Keep an eye on emerging topics or keywords in your industry that competitors haven't yet targeted. Google Trends comes in handy here. But, for some businesses data can be limited. In these cases, try to find parallels for Google Trends. What channels in your industy distribute news and trends? Keep your finger on the pulse so you can get a headstart on your competition when something new happens.
+
+**### 5\. Refine Your Keyword List**  
+
+Refining your keyword list is important to ensure you're prioritizing important keywords that are:
+
+* Relevant to your business.
+
+* Have decent search volume in your area.
+
+* Not so competitive that it is near impossible to break in.  
+
+**## Implementing Your Local Keyword Research**  
+---------------------------------------------  
+
+Once you have identified your local keywords, it's time to put them on your website. Here are some tips:  
+
+**### 1\. Optimize Your Website (On-Page Optimization)**  
+
+On-page SEO helps search engines understand the local relevance of your website content. By working in locally-targeted keywords into your web pages, you increase the chances of appearing in local search results.
+
+Important places to have your keywords appear include: 
+
+* Page titles  
+* Meta descriptions  
+* Header tags
+
+* Main content
+
+Optimized page elements like meta titles and descriptions make your listings more appealing in search results. Well-structured content with appropriate headings makes it easier for users to navigate and find relevant information 
+
+**### 2\. Use Location-Specific Pages**
+
+Dedicated local pages for different service areas or locations helps target specific markets.
+
+Clear, location-specific content helps visitors find the information they need. Create pages that are specific to your location. Optimize these pages with local keywords.
+
+**### 3\. Build Local Citations**  
+
+Consistent information across your web presence helps build trust with both users and search engines. Get listed in local directories like **Yelp**, **Google My Business**, and **Bing Places**. Make sure to use consistent NAP (name, address, phone number) across all directories and web pages.
+
+**### 4\.** Track **and Refine**  
+
+To track and refine your rankings for target keywords, follow these steps:
+
+1) Set Up Tracking
+
+Use a reliable SEO tool like Semrush, Ahrefs, or Google Search Console to track your rankings. I like to use Google Search Console. Identify and add the most relevant keywords fo your business to track. Record your current rankings as a starting point for measuring progress.
+
+2) Track Rankings Often
+
+Review your keyword positions at least weekly or bi-weekly. Look for patterns in ranking changes over time. If possible, configure notifications for significant ranking changes.
+
+3) Analyze Performance
+
+Note which keywords are ranking well and driving traffic. Pinpoint keywords that are not meeting expectations. And for extra credit, compare how your rankings stack up against your competitors.
+
+4) Refine Your Strategy
+
+Update and improve your **content** for underperforming keywords. Identify related keywords or long-tail variations to expand your reach. Fine-tune title tags, meta descriptions, and header tags based on ranking data. To go the extra mile, focus on building links external links to pages targeting important keywords. 
+
+5) Measure and Iterate: Compare current rankings to your baseline and goals. Ensure your content aligns with the search intent behind your target keywords. Keep an eye on industry trends and algorithm updates that may affect rankings. Review and update your target keywords based on performance and relevance.
+
+Local keyword research is a crucial first step in attracting local customers to your business. By following the techniques outlined in this article, you be able to identify relevant keywords and phrases that will help you rank higher in search engine results pages, and drive more local traffic to your business. If you need help implementing these suggestions or ideas, consider [reaching out to me](tel:7868300833) for help.
